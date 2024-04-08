@@ -1,3 +1,3 @@
 # Stress-DeepFace
-**OPEN FOR CONTRIBUTIONS**
-*Will fil when free😪*
+**Checked on Local environment, Works smoothly**
+*Colab may not be the best place to run this*
